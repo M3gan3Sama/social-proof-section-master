@@ -22,7 +22,7 @@ Honestly that was hard! 😂
 #### Laptop Preview:
 
 <p align="center" width="100%">
-  <img src="./design/Laptop-preview-1024.png" width=1024 height=720>
+  <img src="./design/Laptop-preview-1024.png" width=1024>
 </p>
 
 #### Tablet Preview:
