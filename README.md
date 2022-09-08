@@ -28,5 +28,5 @@ Honestly that was hard! 😂
 #### Tablet Preview:
 
 <p align="center" width="100%">
-  <img src="./design/Tablet-preview-768.png" width=768 >
+  <img src="./design/Tablet-preview-768.png" width=768 alt="Tablet preview" title="Tablet Preview">
 </p>
