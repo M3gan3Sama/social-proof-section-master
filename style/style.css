@@ -31,6 +31,7 @@ body {
 }
 
 main {
+  position: relative;
   max-width: 32.7rem;
   margin-block: 8rem;
   display: grid;
@@ -78,6 +79,7 @@ main {
 .rate-container h2 {
   font-size: 1.75rem;
   color: var(--very-dark-magenta);
+  white-space: nowrap;
 }
 
 .star-icon {
@@ -155,9 +157,12 @@ footer p {
 }
 
 @media screen and (min-width: 600px) {
+  .hero-rate {
+    width: auto;
+  }
   .rate-container {
     padding: 1.9rem 3rem;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: auto 1fr;
     gap: 3rem;
   }
 
@@ -172,7 +177,6 @@ footer p {
       url(../images/bg-pattern-bottom-desktop.svg);
   }
   main {
-    max-width: 98vw;
     grid-template-columns: auto 1fr;
     gap: 5rem 4rem;
   }
@@ -188,9 +192,13 @@ footer p {
     max-width: 30ch;
   }
 
+  .hero-rate {
+    margin-inline-start: auto;
+  }
+
   .rate-container {
+    min-width: 39.98rem;
     padding: 1.9rem 2rem;
-    grid-template-columns: auto 1fr;
     gap: 2rem;
   }
 
@@ -209,7 +217,6 @@ footer p {
 
 @media screen and (min-width: 900px) {
   main {
-    max-width: 98vw;
     grid-template-columns: 1fr 1fr;
     gap: 5rem 4rem;
   }
