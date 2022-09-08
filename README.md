@@ -48,8 +48,8 @@ Honestly that was hard! 😂
 
 ### Links
 
-- Solution URL: [My solution](https://github.com/M3gan3Sama/social-proof-section-master.git)
-- Live Site URL: [Live site](https://m3gan3sama.github.io/social-proof-section-master/)
+- Solution URL: [You can My solution here](https://github.com/M3gan3Sama/social-proof-section-master.git)
+- Live Site URL: [This is my Live site for This challenge](https://m3gan3sama.github.io/social-proof-section-master/)
   
 ## My process
 
