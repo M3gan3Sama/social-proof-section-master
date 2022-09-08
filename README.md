@@ -6,7 +6,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-This is my solution for this challenge
+This is my solution for this challenge.
 
 ## Overview
 
