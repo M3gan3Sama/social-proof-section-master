@@ -22,11 +22,17 @@ Honestly that was hard! 😂
 #### Laptop Preview:
 
 <p align="center" width="100%">
-  <img src="./design/Laptop-preview-1024.png" width=1024>
+  <img src="./design/Laptop-preview-1024.png" width=1024 alt="Laptop preview" title="Laptop Preview">
 </p>
 
 #### Tablet Preview:
 
 <p align="center" width="100%">
   <img src="./design/Tablet-preview-768.png" width=768 alt="Tablet preview" title="Tablet Preview">
+</p>
+
+#### Mobile Preview:
+
+<p align="center" width="100%">
+  <img src="./design/mobile-preview-375.png" width=375 alt="Mobile preview" title="Mobile Preview">
 </p>
