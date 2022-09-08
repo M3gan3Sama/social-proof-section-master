@@ -18,7 +18,7 @@ Honestly that was hard! 😂
 ### Screenshot
 #### Desktop Preview:
 
-![Desktop preview (1440px), Desktop preview](./design/Desktop-preview-1440.png)
+![Desktop preview (1440px)](./design/Desktop-preview-1440.png "Desktop preview")
 #### Laptop Preview:
 
 <p align="center" width="100%">
