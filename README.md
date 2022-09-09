@@ -37,6 +37,7 @@ Honestly that was hard! 😂
   <img src="./design/Tablet-preview-768.png" width=768 alt="Tablet preview (768px)" title="Tablet Preview">
 </p>
 
+---
 #### Mobile preview:
 
 <p align="center" width="100%">
